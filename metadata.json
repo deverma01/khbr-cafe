@@ -1,0 +1,6 @@
+{
+  "name": "खबर Cafe - 3D News Portal",
+  "description": "Premium 3D Hindi News Portal, Daily e-Paper & Admin Dashboard powered by Supabase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
